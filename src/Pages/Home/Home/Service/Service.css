@@ -1,0 +1,12 @@
+.service {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.service:hover {
+    transform: scale(1.1);
+    transition: .4s;
+}
